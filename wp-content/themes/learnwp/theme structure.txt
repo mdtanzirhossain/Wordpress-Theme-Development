@@ -1,0 +1,56 @@
+
+Folder:
+1. assets
+2. inc
+3. parts
+4. patterns
+5. styles
+6. templates
+
+other files:
+1. index.php 
+2. function.php
+3. style.css
+4. package.json
+5. theme.json
+6. README.txt
+7. theme structure.txt
+8. screenshot.png
+9. archive.php
+10. header.php
+11. category.php
+12. search.php
+13. footer.php
+
+
+Including CSS:
+1. Front-end stylesheets
+2. Inline style
+3. Editor style
+4. Block Stylesheets
+
+Including JavaScript
+1. Front-end JavaScript
+2. Inline JavaScript
+3. Editor JavaScript
+4. Wordpress Default Script
+
+Including Images
+Including Fonts
+
+All 4 of these issues have different path which I need to understand.
+
+Must:
+style.css
+index,php
+
+Optional:
+README.txt
+functions.php
+screenshot.png
+theme.json
+
+standard:
+assets/css/
+assets/images/
+assets/js/
