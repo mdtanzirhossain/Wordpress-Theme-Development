@@ -1,0 +1,16 @@
+// globally kaj korer jonno color, style etc onek kisu rakha jae
+// we will learn in 13th video
+// 1. how to write
+// 2. how to write version
+// 3. what is in the setting\
+
+// minimum ja ei file e thaka lagbe
+{
+    "version":2,
+    "settings":{
+        "layout":{
+            "contentSize":"840px",
+            "wideSize": "1100px"
+        }
+    }
+}

@@ -29,7 +29,7 @@ wp_add_inline_style(
                     false
                 );
                 wp_add_inline_script('main',
-                'console.log("This is inline javascript");',
+                'console.log("This is inline javascript")',
                 );
             }
         }

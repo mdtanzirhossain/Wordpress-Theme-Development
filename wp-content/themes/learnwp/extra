@@ -1,0 +1,7 @@
+  <?php
+echo "<h1>Hello World</h1>";
+echo "<p>Hello World</p>";
+echo wp_get_theme()->get('Version');
+?>
+
+<?phpwp_footer();?>
